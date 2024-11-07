@@ -14,9 +14,9 @@ An app with a cheerful orange guitar pick that teaches how to read tablatures th
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
 
-<img src="https://github.com/user-attachments/assets/2318170b-b68c-48e0-82b8-6b4331bef4c1" width="300" height="200">
-<img src="https://github.com/user-attachments/assets/44a55179-3df1-452e-8177-1139fd0c4995" width="300" height="200">
-<img src="https://github.com/user-attachments/assets/09bb8b7e-e500-4a72-b8f8-192ce920f7c0" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/2318170b-b68c-48e0-82b8-6b4331bef4c1" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/44a55179-3df1-452e-8177-1139fd0c4995" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/09bb8b7e-e500-4a72-b8f8-192ce920f7c0" width="200" height="400">
 
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
