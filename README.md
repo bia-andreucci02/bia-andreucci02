@@ -1,4 +1,4 @@
-
+![IMG_0120](https://github.com/user-attachments/assets/11297407-f80b-4661-8362-32daafbd1a55)
 ## Hi my name is Beatriz Andreucci 
 
 
@@ -15,9 +15,7 @@ An app with a cheerful orange guitar pick that teaches how to read tablatures th
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
 
-<img src="https://github.com/user-attachments/assets/d1f34d06-60fc-4477-b3d9-d2b4449bd690" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/b4612fd7-ef8c-4998-8391-27143ed8929b" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/cd851137-22a4-440b-b3ad-c9a7d1babcae" width="200" height="400">
+![IMG_0121](https://github.com/user-attachments/assets/dd6a0fc9-ad12-4cbf-8424-41ac39ab1a03)
 
 
 
@@ -27,6 +25,10 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 🎮 Projeto Aurora:
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
+
+
+
+![IMG_0119](https://github.com/user-attachments/assets/387fbd58-a136-467e-ad6c-236c560976a4)
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
