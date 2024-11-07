@@ -20,7 +20,7 @@ Um Serious Game de matemática para crianças resolverem desafios de raciocínio
 
 🎩 Dandie:
 
-An app to engage 
+An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. Giving tips on tasks, how to perform them and products that can be used.
 
 👗 Pashion:
 
