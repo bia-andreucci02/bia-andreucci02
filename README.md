@@ -24,7 +24,7 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 
 ## 🎮 **Projeto Aurora:**
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/projeto-aurora)
+[https://apps.apple.com/br/app/projeto-aurora](https://apps.apple.com/br/app/projeto-aurora)
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
 
@@ -34,7 +34,7 @@ A math serious game, where you need to solve logical thinking challenges to disc
 
 ## 🎩 **Dandie:**
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/dandie)
+[https://apps.apple.com/br/app/dandie](https://apps.apple.com/br/app/dandie)
 
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
@@ -48,7 +48,7 @@ An app focused on the male public to help them create and maintain a self care r
 
 ## 👗 **Pashion:**
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/pashion)
+[https://apps.apple.com/br/app/pashion](https://apps.apple.com/br/app/pashion)
 
 Pashion is an app focused on fashion students. Where you can create your fashion documents in one place, exploring drawing tools, moodboard and tech packs.
 This app was devolped for iPads, using Swift, Swift UI and UI Kit.
@@ -58,7 +58,7 @@ This app was devolped for iPads, using Swift, Swift UI and UI Kit.
 
 ## 🐝 **Bezzies:**
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/bezzies)
+[https://apps.apple.com/br/app/bezzies](https://apps.apple.com/br/app/bezzies)
 
 An app for you to remember informations about your friends, like their birthdays, what they like and maybe what you can give to them as a birthday gift!
 This app was developed using UI Kit.
