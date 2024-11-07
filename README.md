@@ -7,7 +7,7 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 link linkedin - email
 
-👩🏻‍💻 Some of my projects:
+##👩🏻‍💻 Some of my projects:
 
 🎸 Tabsy - Aprenda a ler tablaturas:
 
@@ -15,9 +15,10 @@ An app with a cheerful orange guitar pick that teaches how to read tablatures th
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
 
+<img src="https://github.com/user-attachments/assets/d1f34d06-60fc-4477-b3d9-d2b4449bd690" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/b4612fd7-ef8c-4998-8391-27143ed8929b" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/cd851137-22a4-440b-b3ad-c9a7d1babcae" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/d1f34d06-60fc-4477-b3d9-d2b4449bd690" width="200" height="400">
+
 
 
 
