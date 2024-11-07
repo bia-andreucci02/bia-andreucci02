@@ -38,8 +38,8 @@ A math serious game, where you need to solve logical thinking challenges to disc
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
 
-<img src="https://github.com/user-attachments/assets/df8d1f66-714a-44bb-82e3-7a80ab71cf1c" width="400" height="200">
-<img src="https://github.com/user-attachments/assets/8295565e-fe55-4b7b-b5f9-a322a16dedde" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/df8d1f66-714a-44bb-82e3-7a80ab71cf1c" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/8295565e-fe55-4b7b-b5f9-a322a16dedde" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9" width="200" height="200">
 
 
