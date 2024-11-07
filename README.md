@@ -14,10 +14,9 @@ link linkedin - email
 An app with a cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder. Developed in Swift and Swift UI, using acessible tools such as dynamic type and voice over.
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
-![IMG_0115 2](https://github.com/user-attachments/assets/6c24cf76-da51-4ee2-8ced-714455de10e8)
-![IMG_0114 2](https://github.com/user-attachments/assets/8bf7aa98-08ff-421f-88a0-474654887b9c)
-![IMG_0113 2](https://github.com/user-attachments/assets/8ffc15e8-8172-4d8b-a324-9560221d5acf)
-![IMG_0111 2](https://github.com/user-attachments/assets/4ad47c16-bd6f-4e0b-a28c-fe45e0ee1380)
+<img src="https://github.com/user-attachments/assets/6c24cf76-da51-4ee2-8ced-714455de10e8" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/8bf7aa98-08ff-421f-88a0-474654887b9c" width="300" height="200">
+
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
