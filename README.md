@@ -4,8 +4,18 @@
 I am a 20 year old information systems student, finishing the Apple Developer Program | Mackenzie program where i had the opportunity to experience and learn about the programming area, developing applications in Swift and SwiftUI, in addition to working on some projects using UIKit and Sprite Kit. I participated in the process of creating the applications, maintaining constant contact with the designers and, on some occasions, creating the design of some screens, taking care of the user experience and carrying out user tests.
 During this process, I also had the chance to learn and apply concepts from the product area, following the SCRUM methodology, carrying out market analysis, interviews with experts from different areas and even securing strategic partnerships.
 
-
-link linkedin - email
+<div style="display: inline_block">
+  <img align="center" alt="Swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+</div>
+  <br>
+<div>
+  <a href = "mailto:beatriz.ucci02@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/beatriz-andreucci" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 👩🏻‍💻 Some of my projects:
 
