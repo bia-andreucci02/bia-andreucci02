@@ -16,15 +16,18 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 
 🎮 Projeto Aurora:
 
-Um Serious Game de matemática para crianças resolverem desafios de raciocínio lógico para desvendar o passado e pôr fim a um mistério que assombra a família de Ana em uma narrativa intrigante e educativa. Desenvolvido em Swift e Sprite Kit.
+A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
+
+
 
 🎩 Dandie:
 
-An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. Giving tips on tasks, how to perform them and products that can be used.
+An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
 👗 Pashion:
 
 
 🐝 Bezzie:
+
 
 
