@@ -10,7 +10,8 @@ During this process, I also had the chance to learn and apply concepts from the 
 </div>
 
 
-**Alguns dos meus projetos**
+
+**👩🏻‍💻Alguns dos meus projetos:**
 ## 🎸 **Tabsy - Aprenda a ler tablaturas:**
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351?l=en-GB](https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351?l=en-GB)
