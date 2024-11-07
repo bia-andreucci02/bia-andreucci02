@@ -20,4 +20,11 @@ Um Serious Game de matemática para crianças resolverem desafios de raciocínio
 
 🎩 Dandie:
 
-Um aplicativo para incentivo e organização no processo de 
+An app to engage 
+
+👗 Pashion:
+
+
+🐝 Bezzie:
+
+
