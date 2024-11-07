@@ -1,7 +1,7 @@
 ## Hi my name is Beatriz Andreucci 
 
 
-I am a 20 year old information systems student, finishing the Apple Developer Program | Mackenzie program where i had the opportunity to experience and learn mainly about the programming area, developing applications in Swift and SwiftUI, in addition to working on some projects using UIKit and Sprite Kit. I participated in the process of creating the applications, maintaining constant contact with the designers and, on some occasions, creating the design of some screens, taking care of the user experience and carrying out user tests.
+I am a 20 year old information systems student, finishing the Apple Developer Program | Mackenzie program where i had the opportunity to experience and learn about the programming area, developing applications in Swift and SwiftUI, in addition to working on some projects using UIKit and Sprite Kit. I participated in the process of creating the applications, maintaining constant contact with the designers and, on some occasions, creating the design of some screens, taking care of the user experience and carrying out user tests.
 During this process, I also had the chance to learn and apply concepts from the product area, following the SCRUM methodology, carrying out market analysis, interviews with experts from different areas and even securing strategic partnerships.
 
 link linkedin - email
@@ -9,6 +9,8 @@ link linkedin - email
 👩🏻‍💻 Some of my projects:
 
 ## 🎸 **Tabsy - Aprenda a ler tablaturas:**
+
+[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
 An app with a cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder. Developed in Swift and Swift UI, using acessible tools such as dynamic type and voice over.
 
@@ -19,9 +21,10 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 <img src="https://github.com/user-attachments/assets/09bb8b7e-e500-4a72-b8f8-192ce920f7c0" width="200" height="400">
 
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
 ## 🎮 **Projeto Aurora:**
+
+[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/projeto-aurora)
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
 
@@ -29,11 +32,9 @@ A math serious game, where you need to solve logical thinking challenges to disc
 <img src="https://github.com/user-attachments/assets/d81c513d-9c88-4a88-beef-934e055d88ae" width="400" height="200">
 
 
-
-
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
-
 ## 🎩 **Dandie:**
+
+[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/dandie)
 
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
@@ -43,23 +44,31 @@ An app focused on the male public to help them create and maintain a self care r
 <img src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9" width="200" height="200">
 
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
+
 
 ## 👗 **Pashion:**
+
+[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/pashion)
 
 Pashion is an app focused on fashion students. Where you can create your fashion documents in one place, exploring drawing tools, moodboard and tech packs.
 This app was devolped for iPads, using Swift, Swift UI and UI Kit.
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
-  
-## 🐝** Bezzies:**
+<img src="https://github.com/user-attachments/assets/3d474f6f-daba-4769-8999-5dd3cd013d1a" width="400" height="300">
+<img src="https://github.com/user-attachments/assets/5d54f3db-07d8-40ff-9f97-732bf0eb4d48" width="400" height="300">
+
+## 🐝 **Bezzies:**
+
+[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/bezzies)
 
 An app for you to remember informations about your friends, like their birthdays, what they like and maybe what you can give to them as a birthday gift!
 This app was developed using UI Kit.
 
-[https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
+<img src="https://github.com/user-attachments/assets/03957f32-3272-457a-8e21-5daae77461ac" width="800" height="400">
+
 
 🐥 **MapDuck:**
 
+<img src="https://github.com/user-attachments/assets/f548b2c7-2bc3-4a81-8ffc-65bfd1986d10" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/cd35c36d-b6e2-4ba2-b96d-95b8b7c3e153" width="200" height="400">
 
 
