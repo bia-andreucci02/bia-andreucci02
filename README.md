@@ -25,6 +25,8 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
 
+<img src="https://github.com/user-attachments/assets/649a209f-e37d-4ac9-b579-1bb844f6e1e6" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/d81c513d-9c88-4a88-beef-934e055d88ae" width="400" height="200">
 
 
 
