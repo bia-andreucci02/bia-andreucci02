@@ -7,7 +7,7 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 link linkedin - email
 
-##👩🏻‍💻 Some of my projects:
+## 👩🏻‍💻 Some of my projects:
 
 🎸 Tabsy - Aprenda a ler tablaturas:
 
