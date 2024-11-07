@@ -9,6 +9,8 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 🧡🎸 Tabsy - Aprenda a ler tablaturas:
 
-A cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder.
+An app with a cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder. Developed in Swift and Swift UI, using acessible tools such as dynamic type and voice over.
 
-With this app we participate 
+This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
+
+
