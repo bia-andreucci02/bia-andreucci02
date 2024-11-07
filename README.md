@@ -40,7 +40,7 @@ An app focused on the male public to help them create and maintain a self care r
 <img width="496" alt="Screenshot 2024-11-07 at 15 29 27" src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9">
 <img src="https://github.com/user-attachments/assets/df8d1f66-714a-44bb-82e3-7a80ab71cf1c" width="400" height="200">
 <img src="https://github.com/user-attachments/assets/8295565e-fe55-4b7b-b5f9-a322a16dedde" width="400" height="200">
-<img width="327" alt="Screenshot 2024-11-07 at 15 30 28" src="https://github.com/user-attachments/assets/574c9634-ca40-416f-92da-6e628a8c2171">
+
 
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
