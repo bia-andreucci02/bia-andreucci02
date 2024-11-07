@@ -6,7 +6,7 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 link linkedin - email
 
-## 👩🏻‍💻 Some of my projects:
+👩🏻‍💻 Some of my projects:
 
 ## 🎸 **Tabsy - Aprenda a ler tablaturas:**
 
@@ -21,7 +21,7 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-🎮 **Projeto Aurora:**
+## 🎮 **Projeto Aurora:**
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
 
@@ -33,7 +33,7 @@ A math serious game, where you need to solve logical thinking challenges to disc
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-🎩 **Dandie:**
+## 🎩 **Dandie:**
 
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
@@ -45,14 +45,14 @@ An app focused on the male public to help them create and maintain a self care r
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-👗 **Pashion:**
+## 👗 **Pashion:**
 
 Pashion is an app focused on fashion students. Where you can create your fashion documents in one place, exploring drawing tools, moodboard and tech packs.
 This app was devolped for iPads, using Swift, Swift UI and UI Kit.
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
   
-🐝** Bezzies:**
+## 🐝** Bezzies:**
 
 An app for you to remember informations about your friends, like their birthdays, what they like and maybe what you can give to them as a birthday gift!
 This app was developed using UI Kit.
