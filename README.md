@@ -8,7 +8,7 @@ link linkedin - email
 
 ## 👩🏻‍💻 Some of my projects:
 
-🎸 Tabsy - Aprenda a ler tablaturas:
+🎸 **Tabsy - Aprenda a ler tablaturas:**
 
 An app with a cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder. Developed in Swift and Swift UI, using acessible tools such as dynamic type and voice over.
 
@@ -21,7 +21,7 @@ This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. An
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-🎮 Projeto Aurora:
+🎮 **Projeto Aurora:**
 
 A math serious game, where you need to solve logical thinking challenges to discover the past and put an end to the mystery that haunts Ana's family in an intriguing and educational narrative. Developed using Swift and Sprite Kit.
 
@@ -33,27 +33,33 @@ A math serious game, where you need to solve logical thinking challenges to disc
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-🎩 Dandie:
+🎩 **Dandie:**
 
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
+<img width="496" alt="Screenshot 2024-11-07 at 15 29 27" src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9">
+<img src="https://github.com/user-attachments/assets/df8d1f66-714a-44bb-82e3-7a80ab71cf1c" width="400" height="200">
+<img src="https://github.com/user-attachments/assets/8295565e-fe55-4b7b-b5f9-a322a16dedde" width="400" height="200">
+<img width="327" alt="Screenshot 2024-11-07 at 15 30 28" src="https://github.com/user-attachments/assets/574c9634-ca40-416f-92da-6e628a8c2171">
+
+
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-👗 Pashion:
+👗 **Pashion:**
 
 Pashion is an app focused on fashion students. Where you can create your fashion documents in one place, exploring drawing tools, moodboard and tech packs.
 This app was devolped for iPads, using Swift, Swift UI and UI Kit.
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
   
-🐝 Bezzies:
+🐝** Bezzies:**
 
 An app for you to remember informations about your friends, like their birthdays, what they like and maybe what you can give to them as a birthday gift!
 This app was developed using UI Kit.
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
-🐥 MapDuck:
+🐥 **MapDuck:**
 
 
 
