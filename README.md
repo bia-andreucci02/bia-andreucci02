@@ -9,4 +9,6 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 🧡🎸 Tabsy - Aprenda a ler tablaturas:
 
-An app to learn how to read tabs in an intuitive and fun way.
+A cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder.
+
+With this app we participate 
