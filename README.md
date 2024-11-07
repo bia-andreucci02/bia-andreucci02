@@ -72,6 +72,8 @@ This app was developed using UI Kit.
 
 🐥 **MapDuck:**
 
+An app to keep memories about places that you visited based on your emotions.
+
 <img src="https://github.com/user-attachments/assets/f548b2c7-2bc3-4a81-8ffc-65bfd1986d10" width="200" height="400">
 <img src="https://github.com/user-attachments/assets/cd35c36d-b6e2-4ba2-b96d-95b8b7c3e153" width="200" height="400">
 
