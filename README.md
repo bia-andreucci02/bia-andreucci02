@@ -1,4 +1,3 @@
-![IMG_0120](https://github.com/user-attachments/assets/11297407-f80b-4661-8362-32daafbd1a55)
 ## Hi my name is Beatriz Andreucci 
 
 
@@ -15,9 +14,9 @@ An app with a cheerful orange guitar pick that teaches how to read tablatures th
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
 
-![IMG_0121](https://github.com/user-attachments/assets/dd6a0fc9-ad12-4cbf-8424-41ac39ab1a03)
-
-
+<img src="https://github.com/user-attachments/assets/2318170b-b68c-48e0-82b8-6b4331bef4c1" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/44a55179-3df1-452e-8177-1139fd0c4995" width="300" height="200">
+<img src="https://github.com/user-attachments/assets/09bb8b7e-e500-4a72-b8f8-192ce920f7c0" width="300" height="200">
 
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
@@ -28,7 +27,7 @@ A math serious game, where you need to solve logical thinking challenges to disc
 
 
 
-![IMG_0119](https://github.com/user-attachments/assets/387fbd58-a136-467e-ad6c-236c560976a4)
+
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
 
