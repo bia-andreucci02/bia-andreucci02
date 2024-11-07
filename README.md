@@ -15,8 +15,9 @@ An app with a cheerful orange guitar pick that teaches how to read tablatures th
 
 This app had 10.7K impressions on the App Store, with a 5.0/5.0 stars rating. And it was also the winner of the Education Category of the Campus Mobile competition.
 
-<img src="https://github.com/user-attachments/assets/6c24cf76-da51-4ee2-8ced-714455de10e8" width="200" height="400">
-<img src="https://github.com/user-attachments/assets/8bf7aa98-08ff-421f-88a0-474654887b9c" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/b4612fd7-ef8c-4998-8391-27143ed8929b" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/cd851137-22a4-440b-b3ad-c9a7d1babcae" width="200" height="400">
+<img src="https://github.com/user-attachments/assets/d1f34d06-60fc-4477-b3d9-d2b4449bd690" width="200" height="400">
 
 
 
