@@ -8,7 +8,7 @@ link linkedin - email
 
 ## 👩🏻‍💻 Some of my projects:
 
-🎸 **Tabsy - Aprenda a ler tablaturas:**
+## 🎸 **Tabsy - Aprenda a ler tablaturas:**
 
 An app with a cheerful orange guitar pick that teaches how to read tablatures through gamified, intuitive and acessible activities. With the help of a color-coded system inspired by the Figurenotes method, widely used to support learners with cognitive disorder. Developed in Swift and Swift UI, using acessible tools such as dynamic type and voice over.
 
@@ -37,10 +37,10 @@ A math serious game, where you need to solve logical thinking challenges to disc
 
 An app focused on the male public to help them create and maintain a self care routine, providing them tips in a practical and simple way according to your daily life. This app was developed using Swift, Swift UI and is multi plataform for iPhone and Apple Watch. We also developed a partnership with the company Menér.
 
-<img width="496" alt="Screenshot 2024-11-07 at 15 29 27" src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9">
+
 <img src="https://github.com/user-attachments/assets/df8d1f66-714a-44bb-82e3-7a80ab71cf1c" width="400" height="200">
 <img src="https://github.com/user-attachments/assets/8295565e-fe55-4b7b-b5f9-a322a16dedde" width="400" height="200">
-
+<img src="https://github.com/user-attachments/assets/f83ea595-dad8-46b1-8954-bb995f5086c9" width="200" height="200">
 
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura](https://apps.apple.com/br/app/tabsy-aprenda-tablatura)
