@@ -11,7 +11,7 @@ During this process, I also had the chance to learn and apply concepts from the 
 
 
 
-**👩🏻‍💻Alguns dos meus projetos:**
+**👩🏻‍💻Some of my projects:**
 ## 🎸 **Tabsy - Aprenda a ler tablaturas:**
 
 [https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351?l=en-GB](https://apps.apple.com/br/app/tabsy-aprenda-tablatura/id6469644351?l=en-GB)
