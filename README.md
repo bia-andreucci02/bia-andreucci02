@@ -1,7 +1,7 @@
 ## Hi my name is Beatriz Andreucci 😊👋
 
 
-I am a 20 year old information systems student, finishing the Apple Developer Program | Mackenzie program where i had the opportunity to experience and learn about the programming area, developing applications in Swift and SwiftUI, in addition to working on some projects using UIKit and Sprite Kit. I participated in the process of creating the applications, maintaining constant contact with the designers and, on some occasions, creating the design of some screens, taking care of the user experience and carrying out user tests.
+I am a 21 year old information systems student! I did an intership in the BI area, and am very interested in this area and data. I also had the opportunity to experience to be part of the Apple Developer Academy program where i learned a lot about the programming area, developing applications in Swift and SwiftUI, in addition to working on some projects using UIKit and Sprite Kit. I participated in the process of creating the applications, maintaining constant contact with the designers and, on some occasions, creating the design of some screens, taking care of the user experience and carrying out user tests.
 During this process, I also had the chance to learn and apply concepts from the product area, following the SCRUM methodology, carrying out market analysis, interviews with experts from different areas and even securing strategic partnerships.
 
 <div>
